@@ -1,0 +1,17 @@
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-08\TestBot\TestBot\bin\Debug\net8.0-windows\TestBot.exe
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-08\TestBot\TestBot\bin\Debug\net8.0-windows\TestBot.deps.json
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-08\TestBot\TestBot\bin\Debug\net8.0-windows\TestBot.runtimeconfig.json
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-08\TestBot\TestBot\bin\Debug\net8.0-windows\TestBot.dll
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-08\TestBot\TestBot\bin\Debug\net8.0-windows\TestBot.pdb
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-08\TestBot\TestBot\obj\Debug\net8.0-windows\TestBot.Form1.resources
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-08\TestBot\TestBot\obj\Debug\net8.0-windows\TestBot.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-08\TestBot\TestBot\obj\Debug\net8.0-windows\TestBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-08\TestBot\TestBot\obj\Debug\net8.0-windows\TestBot.AssemblyInfoInputs.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-08\TestBot\TestBot\obj\Debug\net8.0-windows\TestBot.AssemblyInfo.cs
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-08\TestBot\TestBot\obj\Debug\net8.0-windows\TestBot.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-08\TestBot\TestBot\obj\Debug\net8.0-windows\TestBot.sourcelink.json
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-08\TestBot\TestBot\obj\Debug\net8.0-windows\TestBot.dll
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-08\TestBot\TestBot\obj\Debug\net8.0-windows\refint\TestBot.dll
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-08\TestBot\TestBot\obj\Debug\net8.0-windows\TestBot.pdb
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-08\TestBot\TestBot\obj\Debug\net8.0-windows\TestBot.genruntimeconfig.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-08\TestBot\TestBot\obj\Debug\net8.0-windows\ref\TestBot.dll
